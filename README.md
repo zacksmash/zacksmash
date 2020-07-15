@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Zack! I'm a full-stack PHP developer in the Greater Salt Lake Area, Utah. I'm the Co-Founder of [Schematik](https://schematik.io), a web softwar development and technical consulting firm. We build sites, apps, software and we help make sure you're getting the most out of every line in your codebase.
+
+I love working in Laravel, VueJS, Statamic and Wordpress. I love creating automation tools to make developing easier and more fun. Let's work on a project together!
+
 <!--
 **zacksmash/zacksmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
