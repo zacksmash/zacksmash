@@ -4,6 +4,9 @@ I'm Zack! I'm a full-stack PHP developer in the Greater Salt Lake Area, Utah. I'
 
 I love working in Laravel, VueJS, Statamic and Wordpress. I love creating automation tools to make developing easier and more fun. Let's work on a project together!
 
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwamodo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on building [Schematik](https://github.com/schematikio)
 - 🌱 I’m currently learning VueJS v3
 - 👯 I’m looking to collaborate on building awesome tools for automation in Laravel, Statamic and Wordpress
