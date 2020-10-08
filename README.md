@@ -4,7 +4,7 @@ I'm Zack! I'm a full-stack PHP developer in the Greater Salt Lake Area, Utah. I'
 
 I love working in Laravel, VueJS, Statamic and Wordpress. I love creating automation tools to make developing easier and more fun. Let's work on a project together!
 
-## Stats
+### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacksmash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on building [Schematik](https://github.com/schematikio)
