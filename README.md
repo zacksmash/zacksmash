@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zack! I'm a full-stack PHP developer in the Greater Salt Lake Area, Utah. I'm the Director of Development at [Max Connect Digita](https://maxconnect.digital), where I'm building the best Marketing Technology software around. 
+I'm Zack! I'm a full-stack PHP developer in the Greater Salt Lake Area, Utah. I'm the Director of Development at [Max Connect Digital](https://maxconnect.digital), where I'm building the best Marketing Technology software around. 
 
 I love working in Laravel, VueJS, Statamic and Wordpress. I love creating automation tools to make developing easier and more fun. Let's work on a project together!
 
