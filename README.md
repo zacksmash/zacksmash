@@ -8,9 +8,8 @@ I love working in Laravel, VueJS, Statamic and Wordpress. I love creating automa
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacksmash&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on building [Kudos](https://maxconnect.com/kudos)
-- 🌱 I’m currently learning VueJS v3
-- 👯 I’m looking to collaborate on building awesome tools for automation in Laravel, Statamic and Wordpress
-- 🤔 I’m looking for help with building NPM packages
+- 🤖 I'm working on building AI Agents/Tools with PrismPHP
+- 📦 I'm building PHP Packages
 - 💬 Ask me about the 49ers
 - 📫 How to reach me | e:me@zackthe.dev t:@_zacksmash
 - ⚡ Fun fact: I've had stitches a dozen or more times, but I've never broken a bone.
