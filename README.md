@@ -11,5 +11,3 @@ I love working in Laravel, VueJS, Statamic and Wordpress. I love creating automa
 - 🤖 I'm working on building AI Agents/Tools with PrismPHP
 - 📦 I'm building PHP Packages
 - 💬 Ask me about the 49ers
-- 📫 How to reach me | e:me@zackthe.dev t:@_zacksmash
-- ⚡ Fun fact: I've had stitches a dozen or more times, but I've never broken a bone.
